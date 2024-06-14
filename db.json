@@ -1,5 +1,4 @@
-{
-  "Todos":[
+[
     {
     "id":"1",
     "userId":"2",
@@ -7,5 +6,5 @@
     "completed":"false"
     }
   ]
-}
+
 

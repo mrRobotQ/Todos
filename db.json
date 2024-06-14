@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
+      "titleFa": "hello",
+      "titleEn":"english",
       "completed":false,
       "userId":"1"
       
